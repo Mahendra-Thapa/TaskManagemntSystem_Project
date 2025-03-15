@@ -1,0 +1,115 @@
+h1 span {
+  color: #9400ff;
+}
+/* --------------- */
+.task {
+  font-weight: 600;
+  color: green;
+}
+
+.navbar {
+  background-color: white;
+  border-bottom: 2px solid gray;
+}
+
+.nav-link {
+  color: white  !important;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.nav-link:hover {
+  color: green !important;
+}
+
+.img-home {
+  height: 350px;
+  width: 350px;
+}
+
+h2 {
+  color: green;
+}
+
+.label{
+  color: black;
+  font-weight: 600;
+  padding-bottom: 2px;
+  padding-left: 5px;
+}
+
+/* ----------- */
+
+.center-in-page {
+  background-color: #e2ece2;
+  color: #000;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.welcome-page h1 {
+  font-weight: bold;
+}
+
+.welcome-page .lead {
+  font-size: 1.25rem;
+}
+
+.center-in-page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.text-primary {
+  color: green !important;
+}
+
+.lead {
+  font-size: 1.25rem;
+  line-height: 1.5;
+  color: #39393a;
+  font-weight: 400;
+}
+
+.btn{
+  background-color: green !important;
+}
+
+.btn-primary {
+  background-color: #00ff15 !important;
+  border-color: #59ff00 !important;
+}
+
+.btn-primary:hover {
+  background-color: #18b300;
+  border-color: #00b30c;
+}
+
+.home-page {
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  padding: 100px 0;
+  color: #fff;
+}
+
+.home-page h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.home-page h1 span {
+  color: #ffa500; /* Orange color */
+}
+
+.home-page p {
+  font-size: 1.2rem;
+}
